@@ -1,38 +1,5 @@
 
-<p align="center" id="top">
-  <a href="https://getwren.ai/?utm_source=github&utm_medium=title&utm_campaign=readme">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="./misc/wrenai_logo.png">
-      <img src="./misc/wrenai_logo_white.png" width="300px">
-    </picture>
-    <h1 align="center">Wren AI - Open-Source GenBI Agent</h1>
-  </a>
-</p>
 
-<p align="center">
-  <a aria-label="Follow us on X" href="https://x.com/getwrenai">
-    <img alt="" src="https://img.shields.io/badge/-@getwrenai-blue?style=for-the-badge&logo=x&logoColor=white&labelColor=gray&logoWidth=20">
-  </a>
-  <a aria-label="Releases" href="https://github.com/canner/WrenAI/releases">
-    <img alt="" src="https://img.shields.io/github/v/release/canner/WrenAI?logo=github&label=GitHub%20Release&color=blue&style=for-the-badge">
-  </a>
-  <a aria-label="License" href="https://github.com/Canner/WrenAI/blob/main/LICENSE">
-    <img alt="" src="https://img.shields.io/github/license/canner/WrenAI?color=blue&style=for-the-badge">
-  </a>
-  <a href="https://docs.getwren.ai">
-    <img src="https://img.shields.io/badge/docs-online-brightgreen?style=for-the-badge" alt="Docs">
-  </a>
-  <a aria-label="Join the community on GitHub" href="https://discord.gg/5DvshJqG8Z">
-    <img alt="" src="https://img.shields.io/badge/-JOIN%20THE%20COMMUNITY-blue?style=for-the-badge&logo=discord&logoColor=white&labelColor=grey&logoWidth=20">
-  </a>
-  <a aria-label="Canner" href="https://cannerdata.com/?utm_source=github&utm_medium=badge&utm_campaign=readme">
-    <img src="https://img.shields.io/badge/%F0%9F%A7%A1-Made%20by%20Canner-blue?style=for-the-badge">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://trendshift.io/repositories/9263" target="_blank"><img src="https://trendshift.io/api/badge/repositories/9263" alt="Canner%2FWrenAI | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-</p>
 
 > Wren AI is your GenBI Agent, that you can query any database with natural language → get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds. ⚡️
 
